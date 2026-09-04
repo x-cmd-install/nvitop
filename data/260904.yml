@@ -7,7 +7,7 @@ about:
   head: d6ad8da
   archived: false
   latestVersion: v1.7.1
-  collectedAt: 2026-09-04T19:17:54Z
+  collectedAt: 2026-09-04T21:15:10Z
 timeline:
   created: 2021-01-25
   lastCommit: 2026-07-27
@@ -82,6 +82,79 @@ total:
   openIssue: 11
   commit: 869
 ---
+path: /home/runner/.x-repo/github.com/XuehaiPan/nvitop
+collectedAt: 2026-09-04T21:15:12Z
+loc:
+  Python:
+    code: 18372
+    comments: 1099
+    blanks: 2669
+    files: 63
+  Json:
+    code: 2788
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 567
+    comments: 80
+    blanks: 56
+    files: 2
+  ReStructuredText:
+    code: 286
+    comments: 0
+    blanks: 102
+    files: 11
+  Toml:
+    code: 265
+    comments: 18
+    blanks: 22
+    files: 2
+  Html:
+    code: 69
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 64
+    comments: 0
+    blanks: 4
+    files: 4
+  Dockerfile:
+    code: 49
+    comments: 24
+    blanks: 18
+    files: 3
+  Batch:
+    code: 26
+    comments: 1
+    blanks: 8
+    files: 1
+  Makefile:
+    code: 9
+    comments: 7
+    blanks: 4
+    files: 1
+  Css:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1170
+    blanks: 514
+    files: 15
+  Text:
+    code: 0
+    comments: 193
+    blanks: 0
+    files: 9
+total:
+  code: 24476
+  comments: 2640
+  blanks: 3583
+  files: 114
 ---
 date: "2026-08-24"
 repo:
