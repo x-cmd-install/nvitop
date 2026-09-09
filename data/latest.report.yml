@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.7.1"
   latestRelease: "v1.7.1"
   latestPrerelease: "v0.11.0"
-  collectedAt: 2026-09-09T05:45:08Z
+  collectedAt: 2026-09-09T20:25:52Z
 timeline:
   created: 2021-01-25
   lastCommit: 2026-07-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-10
   lastPrerelease: 2022-12-04
 popularity:
-  star: 7145
+  star: 7147
   watcher: 29
   fork: 246
   release: 22
@@ -85,7 +85,7 @@ total:
   commit: 869
 ---
 path: /home/runner/.x-repo/github.com/XuehaiPan/nvitop
-collectedAt: 2026-09-09T05:45:10Z
+collectedAt: 2026-09-09T20:25:55Z
 loc:
   Python:
     code: 18372
