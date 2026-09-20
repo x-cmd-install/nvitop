@@ -4,7 +4,7 @@
 
 An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 
-![nvitop](https://repo.x-cmd.io/nvitop.svg)
+[![x-cmd/install — nvitop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nvitop.svg)](https://x-cmd.com/install/nvitop)
 
 ## Install
 
@@ -24,16 +24,6 @@ Total: **22,498** lines of code across **79** files in the top 5 languages.
 | ReStructuredText | 286 | 0 | 102 | 11 |
 | Toml | 265 | 18 | 22 | 2 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.4 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/XuehaiPan/nvitop>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,153 · **Forks**: 245 · **Open issues**: 123 · **Contributors**: 5
+- **Stars**: 7,154 · **Forks**: 246 · **Open issues**: 123 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-06-20 | 1 | 4 | 1 | 2 | 0 | 8 |
-| last180d | 2026-03-22 | 2 | 8 | 4 | 5 | 1 | 22 |
-| 360d | 2025-09-23 | 5 | 23 | 7 | 9 | 1 | 56 |
-| last720d | 2024-09-28 | 12 | 40 | 8 | 33 | 7 | 123 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-06-22 | 1 | 3 | 1 | 2 | 0 | 8 |
+| last180d | 2026-03-24 | 2 | 8 | 4 | 5 | 1 | 22 |
+| 360d | 2025-09-25 | 5 | 23 | 7 | 9 | 1 | 56 |
+| last720d | 2024-09-30 | 12 | 40 | 8 | 33 | 7 | 123 |
 
 ## Improve this data
 
@@ -73,4 +63,4 @@ Install metadata for nvitop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:48:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:56:29Z._

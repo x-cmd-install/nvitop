@@ -4,7 +4,7 @@
 
 An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 
-![nvitop](https://repo.x-cmd.io/nvitop.svg?lang=zh)
+[![x-cmd/install — nvitop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nvitop.svg?lang=zh)](https://x-cmd.com/install/nvitop)
 
 ## 安装
 
@@ -24,16 +24,6 @@ x install nvitop
 | ReStructuredText | 286 | 0 | 102 | 11 |
 | Toml | 265 | 18 | 22 | 2 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.4 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/XuehaiPan/nvitop>
@@ -47,7 +37,7 @@ x install nvitop
 
 ## 流行度
 
-- **Star**: 7,153 · **Fork**: 245 · **开放 issue**: 123 · **贡献者**: 5
+- **Star**: 7,154 · **Fork**: 246 · **开放 issue**: 123 · **贡献者**: 5
 
 ## 累计统计
 
@@ -57,12 +47,12 @@ x install nvitop
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-06-20 | 1 | 4 | 1 | 2 | 0 | 8 |
-| last180d | 2026-03-22 | 2 | 8 | 4 | 5 | 1 | 22 |
-| 360d | 2025-09-23 | 5 | 23 | 7 | 9 | 1 | 56 |
-| last720d | 2024-09-28 | 12 | 40 | 8 | 33 | 7 | 123 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-06-22 | 1 | 3 | 1 | 2 | 0 | 8 |
+| last180d | 2026-03-24 | 2 | 8 | 4 | 5 | 1 | 22 |
+| 360d | 2025-09-25 | 5 | 23 | 7 | 9 | 1 | 56 |
+| last720d | 2024-09-30 | 12 | 40 | 8 | 33 | 7 | 123 |
 
 ## 改进这些数据
 
@@ -73,4 +63,4 @@ nvitop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:48:45Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:56:29Z._
