@@ -24,6 +24,16 @@ Total: **22,498** lines of code across **79** files in the top 5 languages.
 | ReStructuredText | 286 | 0 | 102 | 11 |
 | Toml | 265 | 18 | 22 | 2 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.3 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/XuehaiPan/nvitop>
@@ -47,12 +57,12 @@ Total: **22,498** lines of code across **79** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 1 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 1 | 3 | 2 | 1 | 0 | 7 |
-| last180d | 2026-03-25 | 2 | 8 | 5 | 5 | 1 | 22 |
-| 360d | 2025-09-26 | 5 | 23 | 7 | 9 | 1 | 56 |
-| last720d | 2024-10-01 | 12 | 40 | 8 | 33 | 7 | 123 |
+| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 1 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 1 | 3 | 2 | 1 | 0 | 7 |
+| last180d | 2026-03-26 | 2 | 8 | 5 | 5 | 1 | 22 |
+| 360d | 2025-09-27 | 5 | 23 | 7 | 9 | 1 | 56 |
+| last720d | 2024-10-02 | 12 | 40 | 8 | 33 | 7 | 123 |
 
 ## Improve this data
 
@@ -63,4 +73,4 @@ Install metadata for nvitop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:01:07Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:53:23Z._
