@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,185 · **Forks**: 248 · **Open issues**: 123 · **Contributors**: 5
+- **Stars**: 7,185 · **Forks**: 249 · **Open issues**: 123 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 83 · **Open PRs**: 8 · **Closed issues**: 112 · **Open issues**: 11 · **Commits**: 870
+- **Releases**: 22 · **Merged PRs**: 83 · **Open PRs**: 9 · **Closed issues**: 112 · **Open issues**: 11 · **Commits**: 870
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last60d | 2026-08-05 | 0 | 0 | 1 | 0 | 0 | 1 |
-| 90d | 2026-07-06 | 1 | 3 | 2 | 1 | 0 | 8 |
-| last180d | 2026-04-07 | 2 | 8 | 5 | 5 | 1 | 20 |
-| 360d | 2025-10-09 | 5 | 23 | 7 | 9 | 1 | 55 |
-| last720d | 2024-10-14 | 12 | 40 | 8 | 32 | 7 | 122 |
+| 30d | 2026-09-05 | 0 | 0 | 2 | 0 | 0 | 1 |
+| last60d | 2026-08-06 | 0 | 0 | 2 | 0 | 0 | 1 |
+| 90d | 2026-07-07 | 1 | 3 | 3 | 1 | 0 | 3 |
+| last180d | 2026-04-08 | 2 | 8 | 6 | 5 | 1 | 20 |
+| 360d | 2025-10-10 | 5 | 23 | 8 | 9 | 1 | 55 |
+| last720d | 2024-10-15 | 12 | 40 | 9 | 32 | 7 | 122 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nvitop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:38:51Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:29:56Z._
