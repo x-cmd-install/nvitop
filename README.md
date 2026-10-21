@@ -26,13 +26,13 @@ Total: **22,940** lines of code across **80** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4 / 10**
+Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
-- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,216 · **Forks**: 251 · **Open issues**: 123 · **Contributors**: 5
+- **Stars**: 7,222 · **Forks**: 251 · **Open issues**: 123 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 1 | 2 | 0 | 0 | 5 |
-| last60d | 2026-08-21 | 0 | 1 | 2 | 0 | 0 | 5 |
-| 90d | 2026-07-22 | 0 | 2 | 3 | 0 | 0 | 6 |
-| last180d | 2026-04-23 | 2 | 9 | 5 | 5 | 1 | 24 |
-| 360d | 2025-10-25 | 5 | 23 | 7 | 9 | 1 | 55 |
-| last720d | 2024-10-30 | 12 | 40 | 8 | 31 | 6 | 125 |
+| 30d | 2026-09-21 | 0 | 1 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-22 | 0 | 1 | 2 | 0 | 0 | 5 |
+| 90d | 2026-07-23 | 0 | 2 | 3 | 0 | 0 | 6 |
+| last180d | 2026-04-24 | 2 | 9 | 5 | 5 | 1 | 24 |
+| 360d | 2025-10-26 | 5 | 23 | 7 | 9 | 1 | 55 |
+| last720d | 2024-10-31 | 12 | 40 | 8 | 31 | 6 | 125 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nvitop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:37:12Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:35:56Z._
