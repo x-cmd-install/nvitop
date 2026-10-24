@@ -14,11 +14,11 @@ x install nvitop
 
 ## Code insight
 
-Total: **22,991** lines of code across **80** files in the top 5 languages.
+Total: **23,110** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 18,798 | 1,137 | 2,729 | 64 |
+| Python | 18,917 | 1,143 | 2,744 | 64 |
 | Json | 2,788 | 0 | 0 | 1 |
 | Sh | 632 | 105 | 83 | 2 |
 | ReStructuredText | 286 | 0 | 102 | 11 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.1` (2026-07-10)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 7,225 · **Forks**: 252 · **Open issues**: 123 · **Contributors**: 5
+- **Stars**: 7,224 · **Forks**: 253 · **Open issues**: 123 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 85 · **Open PRs**: 9 · **Closed issues**: 112 · **Open issues**: 11 · **Commits**: 875
+- **Releases**: 22 · **Merged PRs**: 85 · **Open PRs**: 9 · **Closed issues**: 112 · **Open issues**: 11 · **Commits**: 876
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 2 | 2 | 0 | 0 | 6 |
-| last60d | 2026-08-24 | 0 | 2 | 3 | 0 | 0 | 6 |
-| 90d | 2026-07-25 | 0 | 3 | 4 | 0 | 0 | 7 |
-| last180d | 2026-04-26 | 2 | 10 | 5 | 5 | 1 | 25 |
-| 360d | 2025-10-28 | 5 | 22 | 8 | 9 | 1 | 56 |
-| last720d | 2024-11-02 | 12 | 41 | 9 | 31 | 6 | 126 |
+| 30d | 2026-09-24 | 0 | 2 | 2 | 0 | 0 | 7 |
+| last60d | 2026-08-25 | 0 | 2 | 3 | 0 | 0 | 7 |
+| 90d | 2026-07-26 | 0 | 3 | 4 | 0 | 0 | 8 |
+| last180d | 2026-04-27 | 2 | 10 | 5 | 5 | 1 | 26 |
+| 360d | 2025-10-29 | 5 | 22 | 8 | 9 | 1 | 57 |
+| last720d | 2024-11-03 | 12 | 41 | 9 | 31 | 6 | 127 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for nvitop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:34:34Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:22:47Z._
