@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/XuehaiPan/nvitop/releases/352053337",
-  "assets_url": "https://api.github.com/repos/XuehaiPan/nvitop/releases/352053337/assets",
-  "upload_url": "https://uploads.github.com/repos/XuehaiPan/nvitop/releases/352053337/assets{?name,label}",
-  "html_url": "https://github.com/XuehaiPan/nvitop/releases/tag/v1.7.1",
-  "id": 352053337,
+  "url": "https://api.github.com/repos/XuehaiPan/nvitop/releases/423863593",
+  "assets_url": "https://api.github.com/repos/XuehaiPan/nvitop/releases/423863593/assets",
+  "upload_url": "https://uploads.github.com/repos/XuehaiPan/nvitop/releases/423863593/assets{?name,label}",
+  "html_url": "https://github.com/XuehaiPan/nvitop/releases/tag/v1.7.2",
+  "id": 423863593,
   "author": {
     "login": "XuehaiPan",
     "id": 16078332,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOE9Uprc4U--hZ",
-  "tag_name": "v1.7.1",
+  "node_id": "RE_kwDOE9Uprc4ZQ6Up",
+  "tag_name": "v1.7.2",
   "target_commitish": "main",
-  "name": "nvitop v1.7.1",
+  "name": "nvitop v1.7.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-07-10T11:21:50Z",
-  "updated_at": "2026-07-10T11:24:21Z",
-  "published_at": "2026-07-10T11:24:21Z",
+  "created_at": "2026-10-26T04:35:18Z",
+  "updated_at": "2026-10-26T04:38:22Z",
+  "published_at": "2026-10-26T04:38:22Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/XuehaiPan/nvitop/tarball/v1.7.1",
-  "zipball_url": "https://api.github.com/repos/XuehaiPan/nvitop/zipball/v1.7.1",
-  "body": "## What's Changed\r\n\r\n### Added\r\n\r\n- Add a minimal stdlib HTTP(S) GPU dashboard built on `nvitop.collect_in_background` by @XuehaiPan in #218.\r\n- Add inline script metadata (PEP 723) to the runnable `examples/` scripts so each runs directly from its URL with `uv run` without cloning the repository by @XuehaiPan in #224.\r\n\r\n### Fixed\r\n\r\n- Fix an intermittent `SIGSEGV` at interpreter exit where the `atexit` `nvmlShutdown()` raced in-flight NVML queries from background threads by @XuehaiPan in #223. Issued by @zengchang233 in #222.\r\n\r\n**Full Changelog**: https://github.com/XuehaiPan/nvitop/compare/v1.7.0...v1.7.1",
+  "tarball_url": "https://api.github.com/repos/XuehaiPan/nvitop/tarball/v1.7.2",
+  "zipball_url": "https://api.github.com/repos/XuehaiPan/nvitop/zipball/v1.7.2",
+  "body": "## What's Changed\r\n\r\n### Added\r\n\r\n- Add `nvidia-ml-py` 13.610.43 to support list by @XuehaiPan.\r\n- Add `nvidia-ml-py` 13.615.71 to support list by @XuehaiPan.\r\n- Add a responsive Rich GPU dashboard example with host metrics, MIG support, and GPU process snapshots by @XuehaiPan in #231.\r\n\r\n### Fixed\r\n\r\n- Guard NVML field queries against a buffer overrun in NVIDIA driver 595.91.07 that can crash `nvitop-exporter` while collecting NVLink throughput by @XuehaiPan in #232.\r\n- Fix shared-memory accounting on unified-memory devices (e.g., NVIDIA DGX Spark and RTX Spark N1X) to include reclaimable cache in free memory and calculate used memory from available capacity by @johnnynunez in #234.\r\n\r\n**Full Changelog**: https://github.com/XuehaiPan/nvitop/compare/v1.7.1...v1.7.2",
   "mentions_count": 2
 }
