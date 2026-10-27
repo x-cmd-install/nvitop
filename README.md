@@ -26,11 +26,11 @@ Total: **23,119** lines of code across **80** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/28 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,226 · **Forks**: 253 · **Open issues**: 123 · **Contributors**: 5
+- **Stars**: 7,229 · **Forks**: 253 · **Open issues**: 123 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 3 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 1 | 3 | 3 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 1 | 3 | 4 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 3 | 11 | 4 | 5 | 0 | 0 |
-| 360d | 2025-10-31 | 6 | 23 | 8 | 9 | 1 | 0 |
-| last720d | 2024-11-05 | 13 | 42 | 9 | 31 | 6 | 129 |
+| 30d | 2026-09-27 | 1 | 3 | 2 | 0 | 0 | 8 |
+| last60d | 2026-08-28 | 1 | 3 | 3 | 0 | 0 | 9 |
+| 90d | 2026-07-29 | 1 | 3 | 4 | 0 | 0 | 9 |
+| last180d | 2026-04-30 | 3 | 11 | 4 | 5 | 0 | 26 |
+| 360d | 2025-11-01 | 6 | 23 | 8 | 9 | 1 | 59 |
+| last720d | 2024-11-06 | 13 | 42 | 9 | 31 | 6 | 129 |
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/nvitop). **2** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/nvitop). **1** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -75,7 +75,7 @@ Reported by **22** distros on [repology.org](https://repology.org/project/nvitop
 | Debian 13 | `1.5.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.5.2` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.3.2` | ⚠️ outdated |
-| Nix unstable | `1.7.1` | ✅ latest |
+| Nix unstable | `1.7.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for nvitop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:31:11Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:51:30Z._
