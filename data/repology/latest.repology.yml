@@ -1,5 +1,52 @@
-- repo: parrot
-  subrepo: parrot-updates/contrib
+- repo: nix_stable_24_11
+  srcname: nvitop
+  visiblename: nvitop
+  version: 1.3.2
+  origversion: null
+  status: outdated
+  summary: Interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - GPL-3.0
+- repo: nix_stable_25_05
+  srcname: nvitop
+  visiblename: nvitop
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: Interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - GPL-3.0
+- repo: nix_stable_25_11
+  srcname: nvitop
+  visiblename: nvitop
+  version: 1.6.0
+  origversion: null
+  status: outdated
+  summary: Interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - GPL-3.0
+- repo: ubuntu_25_04
+  subrepo: plucky/multiverse
+  srcname: nvitop
+  binnames:
+    - nvitop
+  visiblename: nvitop
+  version: 1.4.2
+  origversion: 1.4.2-1
+  status: outdated
+  maintainers:
+    - pkg-nvidia-devel@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - multiverse/misc
+- repo: ubuntu_25_10
+  subrepo: questing/multiverse
   srcname: nvitop
   binnames:
     - nvitop
@@ -11,7 +58,21 @@
     - pkg-nvidia-devel@lists.alioth.debian.org
     - lumin@debian.org
   categories:
-    - contrib/misc
+    - multiverse/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/multiverse
+  srcname: nvitop
+  binnames:
+    - nvitop
+  visiblename: nvitop
+  version: 1.5.2
+  origversion: 1.5.2-1
+  status: outdated
+  maintainers:
+    - pkg-nvidia-devel@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - multiverse/misc
 - repo: raspbian_stable
   subrepo: contrib
   srcname: nvitop
@@ -40,20 +101,45 @@
     - lumin@debian.org
   categories:
     - contrib/misc
-- repo: parrot
-  subrepo: parrot/contrib
+- repo: ubuntu_24_04
+  subrepo: noble/multiverse
   srcname: nvitop
   binnames:
     - nvitop
   visiblename: nvitop
-  version: 1.5.0
-  origversion: 1.5.0-1
+  version: 1.3.2
+  origversion: 1.3.2-1
+  status: outdated
+  maintainers:
+    - pkg-nvidia-devel@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - multiverse/misc
+- repo: kali_rolling
+  subrepo: contrib
+  srcname: nvitop
+  binnames:
+    - nvitop
+  visiblename: nvitop
+  version: 1.5.2
+  origversion: 1.5.2-1
   status: outdated
   maintainers:
     - pkg-nvidia-devel@lists.alioth.debian.org
     - lumin@debian.org
   categories:
     - contrib/misc
+- repo: nix_stable_24_05
+  srcname: nvitop
+  visiblename: nvitop
+  version: 1.3.2
+  origversion: null
+  status: outdated
+  summary: An interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management
+  maintainers:
+    - gaetan@glepage.com
+  licenses:
+    - GPL-3.0
 - repo: aur
   srcname: nvitop
   binname: nvitop
@@ -135,64 +221,6 @@
     - lumin@debian.org
   categories:
     - contrib/misc
-- repo: kali_rolling
-  subrepo: contrib
-  srcname: nvitop
-  binnames:
-    - nvitop
-  visiblename: nvitop
-  version: 1.5.2
-  origversion: 1.5.2-1
-  status: outdated
-  maintainers:
-    - pkg-nvidia-devel@lists.alioth.debian.org
-    - lumin@debian.org
-  categories:
-    - contrib/misc
-- repo: nix_stable_24_05
-  srcname: nvitop
-  visiblename: nvitop
-  version: 1.3.2
-  origversion: null
-  status: outdated
-  summary: An interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management
-  maintainers:
-    - gaetan@glepage.com
-  licenses:
-    - GPL-3.0
-- repo: nix_stable_24_11
-  srcname: nvitop
-  visiblename: nvitop
-  version: 1.3.2
-  origversion: null
-  status: outdated
-  summary: Interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management
-  maintainers:
-    - gaetan@glepage.com
-  licenses:
-    - GPL-3.0
-- repo: nix_stable_25_05
-  srcname: nvitop
-  visiblename: nvitop
-  version: 1.5.0
-  origversion: null
-  status: outdated
-  summary: Interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management
-  maintainers:
-    - gaetan@glepage.com
-  licenses:
-    - GPL-3.0
-- repo: nix_stable_25_11
-  srcname: nvitop
-  visiblename: nvitop
-  version: 1.6.0
-  origversion: null
-  status: outdated
-  summary: Interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management
-  maintainers:
-    - gaetan@glepage.com
-  licenses:
-    - GPL-3.0
 - repo: nix_stable_26_05
   srcname: nvitop
   visiblename: nvitop
@@ -207,44 +235,16 @@
 - repo: nix_unstable
   srcname: nvitop
   visiblename: nvitop
-  version: 1.7.1
+  version: 1.7.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management
   maintainers:
     - gaetan@glepage.com
   licenses:
     - GPL-3.0
-- repo: ubuntu_24_04
-  subrepo: noble/multiverse
-  srcname: nvitop
-  binnames:
-    - nvitop
-  visiblename: nvitop
-  version: 1.3.2
-  origversion: 1.3.2-1
-  status: outdated
-  maintainers:
-    - pkg-nvidia-devel@lists.alioth.debian.org
-    - lumin@debian.org
-  categories:
-    - multiverse/misc
-- repo: ubuntu_25_04
-  subrepo: plucky/multiverse
-  srcname: nvitop
-  binnames:
-    - nvitop
-  visiblename: nvitop
-  version: 1.4.2
-  origversion: 1.4.2-1
-  status: outdated
-  maintainers:
-    - pkg-nvidia-devel@lists.alioth.debian.org
-    - lumin@debian.org
-  categories:
-    - multiverse/misc
-- repo: ubuntu_25_10
-  subrepo: questing/multiverse
+- repo: parrot
+  subrepo: parrot/contrib
   srcname: nvitop
   binnames:
     - nvitop
@@ -256,21 +256,21 @@
     - pkg-nvidia-devel@lists.alioth.debian.org
     - lumin@debian.org
   categories:
-    - multiverse/misc
-- repo: ubuntu_26_04
-  subrepo: resolute/multiverse
+    - contrib/misc
+- repo: parrot
+  subrepo: parrot-updates/contrib
   srcname: nvitop
   binnames:
     - nvitop
   visiblename: nvitop
-  version: 1.5.2
-  origversion: 1.5.2-1
+  version: 1.5.0
+  origversion: 1.5.0-1
   status: outdated
   maintainers:
     - pkg-nvidia-devel@lists.alioth.debian.org
     - lumin@debian.org
   categories:
-    - multiverse/misc
+    - contrib/misc
 - repo: ubuntu_26_10
   subrepo: stonking/multiverse
   srcname: nvitop
