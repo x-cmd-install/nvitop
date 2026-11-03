@@ -14,11 +14,11 @@ x install nvitop
 
 ## Code insight
 
-Total: **23,135** lines of code across **80** files in the top 5 languages.
+Total: **23,142** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 18,942 | 1,146 | 2,749 | 64 |
+| Python | 18,949 | 1,146 | 2,749 | 64 |
 | Json | 2,788 | 0 | 0 | 1 |
 | Sh | 632 | 105 | 83 | 2 |
 | ReStructuredText | 286 | 0 | 102 | 11 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.2` (2026-10-26)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 87 · **Open PRs**: 9 · **Closed issues**: 113 · **Open issues**: 12 · **Commits**: 879
+- **Releases**: 23 · **Merged PRs**: 87 · **Open PRs**: 9 · **Closed issues**: 113 · **Open issues**: 12 · **Commits**: 880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 4 | 2 | 1 | 1 | 9 |
-| last60d | 2026-09-03 | 1 | 4 | 3 | 1 | 1 | 10 |
-| 90d | 2026-08-04 | 1 | 4 | 3 | 1 | 1 | 10 |
-| last180d | 2026-05-06 | 3 | 10 | 4 | 5 | 1 | 24 |
-| 360d | 2025-11-07 | 6 | 24 | 8 | 9 | 2 | 54 |
-| last720d | 2024-11-12 | 13 | 43 | 9 | 32 | 7 | 130 |
+| 30d | 2026-10-04 | 1 | 4 | 2 | 1 | 1 | 10 |
+| last60d | 2026-09-04 | 1 | 4 | 3 | 1 | 1 | 11 |
+| 90d | 2026-08-05 | 1 | 4 | 3 | 1 | 1 | 11 |
+| last180d | 2026-05-07 | 3 | 10 | 4 | 5 | 1 | 25 |
+| 360d | 2025-11-08 | 6 | 24 | 8 | 9 | 2 | 55 |
+| last720d | 2024-11-13 | 13 | 43 | 9 | 32 | 7 | 131 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for nvitop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:11:05Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:42:09Z._
