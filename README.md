@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 4 | 2 | 1 | 1 | 8 |
-| last60d | 2026-09-10 | 1 | 4 | 3 | 1 | 1 | 11 |
-| 90d | 2026-08-11 | 1 | 4 | 3 | 1 | 1 | 11 |
-| last180d | 2026-05-13 | 3 | 10 | 4 | 5 | 1 | 20 |
-| 360d | 2025-11-14 | 5 | 22 | 8 | 9 | 2 | 54 |
-| last720d | 2024-11-19 | 13 | 43 | 9 | 31 | 7 | 131 |
+| 30d | 2026-10-11 | 1 | 4 | 2 | 1 | 1 | 8 |
+| last60d | 2026-09-11 | 1 | 4 | 3 | 1 | 1 | 11 |
+| 90d | 2026-08-12 | 1 | 4 | 3 | 1 | 1 | 11 |
+| last180d | 2026-05-14 | 3 | 10 | 4 | 4 | 1 | 20 |
+| 360d | 2025-11-15 | 5 | 22 | 8 | 9 | 2 | 54 |
+| last720d | 2024-11-20 | 13 | 43 | 9 | 31 | 7 | 131 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for nvitop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:28:26Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:14:00Z._
