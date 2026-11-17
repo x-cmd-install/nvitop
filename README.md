@@ -47,30 +47,31 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,257 · **Forks**: 254 · **Open issues**: 125 · **Contributors**: 6
+- **Stars**: 7,257 · **Forks**: 255 · **Open issues**: 125 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 87 · **Open PRs**: 9 · **Closed issues**: 113 · **Open issues**: 12 · **Commits**: 882
+- **Releases**: 23 · **Merged PRs**: 87 · **Open PRs**: 10 · **Closed issues**: 113 · **Open issues**: 12 · **Commits**: 882
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 3 | 2 | 1 | 1 | 7 |
-| last60d | 2026-09-17 | 1 | 4 | 3 | 1 | 1 | 13 |
-| 90d | 2026-08-18 | 1 | 4 | 3 | 1 | 1 | 13 |
-| last180d | 2026-05-20 | 2 | 8 | 4 | 3 | 1 | 21 |
-| 360d | 2025-11-21 | 5 | 22 | 8 | 8 | 2 | 55 |
-| last720d | 2024-11-26 | 13 | 43 | 9 | 31 | 7 | 132 |
+| 30d | 2026-10-18 | 1 | 3 | 3 | 1 | 1 | 7 |
+| last60d | 2026-09-18 | 1 | 4 | 4 | 1 | 1 | 13 |
+| 90d | 2026-08-19 | 1 | 4 | 4 | 1 | 1 | 13 |
+| last180d | 2026-05-21 | 2 | 8 | 5 | 3 | 1 | 21 |
+| 360d | 2025-11-22 | 5 | 22 | 9 | 8 | 2 | 55 |
+| last720d | 2024-11-27 | 13 | 43 | 10 | 31 | 7 | 132 |
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/nvitop). **2** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/nvitop). **2** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `1.5.2` | ⚠️ outdated |
+| Debian 14 | `1.5.2` | ⚠️ outdated |
 | Debian 13 | `1.5.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.5.2` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.3.2` | ⚠️ outdated |
@@ -85,4 +86,4 @@ Install metadata for nvitop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:05:53Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:32:50Z._
